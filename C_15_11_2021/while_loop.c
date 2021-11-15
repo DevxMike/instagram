@@ -16,4 +16,6 @@ int main(){
                                                      //o indeksie i
         ++i; //zwiększenie wartości zmiennej i o 1
     }
+
+    return 0;
 }
